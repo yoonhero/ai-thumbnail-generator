@@ -1,0 +1,6 @@
+### 
+POST https://172.30.1.34:80/generate 
+
+{
+  "video":"bigbuck.mp4"
+}
